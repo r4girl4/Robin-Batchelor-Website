@@ -3,16 +3,26 @@ title: "About Me"
 about:
   id: me
   template: broadside
-  image: img/profile.png
+  image: img/Website_Image.jpg
 ---
 
 :::{#me}
 
 ## Goals
 
+I am an aspiring infectious disease researcher. I hope to study the way pathogens are able to evade the human immune system.
+
 ## Education
 
+I am a current Biomedical Sciences: Medical Microbiology senior at the University of New Hampshire. 
+
 ## Experience
+
+I have been an undergraduate research assistant in Dr. Stephen Jones' lab since the spring of 2023. In this position I have gained experience in collecting field samples, PCR, gel electrophoresis, qPCR, and data organization and analysis. 
+
+This summer I spent 10 weeks in Dr. Andrew Badley's lab at the Mayo Clinic. My project was focused on the potential ability of the protein TRAILshort, a splice variant of the protein TRAIL, to inhibit T cell activation and downstream signaling. I was able to isolate primary T cells from donor apheresis blood and treat with TRAILshort or a negative control scrambled peptide. The cells were then stimulated and stained intracellulary for interferon gamma or pZAP70 and analyzed via flow cytometry. 
+
+I was also able to assist in setting up cell vaibility assays with different cancer cell lines to test the effectiveness of T cells treated with TRAILshort in killing them.
 
 :::
 

@@ -18,6 +18,27 @@
     "href": "index.html",
     "title": "About Me",
     "section": "",
-    "text": "Thanks for checking out my web site!"
+    "text": "I am an aspiring infectious disease researcher. I hope to study the way pathogens are able to evade the human immune system.\n\n\n\nI am a current Biomedical Sciences: Medical Microbiology senior at the University of New Hampshire.\n\n\n\nI have been an undergraduate research assistant in Dr. Stephen Jones’ lab since the spring of 2023. In this position I have gained experience in collecting field samples, PCR, gel electrophoresis, qPCR, and data organization and analysis.\nThis summer I spent 10 weeks in Dr. Andrew Badley’s lab at the Mayo Clinic. My project was focused on the potential ability of the protein TRAILshort, a splice variant of the protein TRAIL, to inhibit T cell activation and downstream signaling. I was able to isolate primary T cells from donor apheresis blood and treat with TRAILshort or a negative control scrambled peptide. The cells were then stimulated and stained intracellulary for interferon gamma or pZAP70 and analyzed via flow cytometry.\nI was also able to assist in setting up cell vaibility assays with different cancer cell lines to test the effectiveness of T cells treated with TRAILshort in killing them.\nThanks for checking out my web site!"
+  },
+  {
+    "objectID": "index.html#goals",
+    "href": "index.html#goals",
+    "title": "About Me",
+    "section": "",
+    "text": "I am an aspiring infectious disease researcher. I hope to study the way pathogens are able to evade the human immune system."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "About Me",
+    "section": "",
+    "text": "I am a current Biomedical Sciences: Medical Microbiology senior at the University of New Hampshire."
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "About Me",
+    "section": "",
+    "text": "I have been an undergraduate research assistant in Dr. Stephen Jones’ lab since the spring of 2023. In this position I have gained experience in collecting field samples, PCR, gel electrophoresis, qPCR, and data organization and analysis.\nThis summer I spent 10 weeks in Dr. Andrew Badley’s lab at the Mayo Clinic. My project was focused on the potential ability of the protein TRAILshort, a splice variant of the protein TRAIL, to inhibit T cell activation and downstream signaling. I was able to isolate primary T cells from donor apheresis blood and treat with TRAILshort or a negative control scrambled peptide. The cells were then stimulated and stained intracellulary for interferon gamma or pZAP70 and analyzed via flow cytometry.\nI was also able to assist in setting up cell vaibility assays with different cancer cell lines to test the effectiveness of T cells treated with TRAILshort in killing them."
   }
 ]
